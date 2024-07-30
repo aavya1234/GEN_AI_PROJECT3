@@ -3,3 +3,6 @@ The Smart Applicant Tracking System (ATS) is a cutting-edge tool designed to enh
 
 # Built With
 Streamlit, PyPDF2, Google Generativeai and Python-dotenv
+
+# Linkedln Post
+https://www.linkedin.com/feed/update/urn:li:activity:7223992463751888896/
